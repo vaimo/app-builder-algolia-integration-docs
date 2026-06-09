@@ -2,7 +2,7 @@
 
 This project is a comprehensive event-driven system that synchronizes products, categories, and CMS pages from Adobe Commerce to Algolia search indices using Adobe I/O Events and Runtime Actions.
 
-> **📖 Looking to install, configure, and operate the app?** See the **[User Guide](docs/user-guide/README.md)** — a step-by-step walkthrough for merchants and store administrators, no developer or command-line knowledge required. The rest of this README covers architecture and developer-level detail (see also [`docs/SYSTEM_DESIGN.md`](docs/SYSTEM_DESIGN.md)).
+> **📖 Looking to install, configure, and operate the app?** See the **[User Guide](docs/user-guide/README.md)** — a step-by-step walkthrough for merchants and store administrators, no developer or command-line knowledge required. The rest of this README covers architecture and developer-level detail.
 
 ![Architecture diagram](docs/architecture.png)
 
